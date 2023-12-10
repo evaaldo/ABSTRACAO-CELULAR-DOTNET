@@ -1,22 +1,19 @@
-# DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+<h1>Sistema de Abstração de Smartphones - .NET</h1>
+<h3>✦ O que é esse repositório?</h3>
+<p>Abstração das propriedades e métodos de um Smartphone para que sejam herdadas por duas linhas de celulares, o iphone e o nokia.</p>
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
+<h3>✦ Quais ferramentas utilizei?</h3>
+<ul>
+  <li>C#</li>
+  <li>.NET</li>
+</ul>
 
-## Contexto
-Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
+<h3>✦ O que busco com esse projeto?</h3>
+<p>Entender melhor sobre os pilares da promação orientada a objeto em um sistema em que abstraio um Smartphone e uso suas propriedades como heranças para classes filhas que representam linhas de celulares. Nesse caso, Iphone e Nokia.</p>
 
-## Proposta
-Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
-Você deve criar as suas classes de acordo com o diagrama abaixo:
+<p><strong>OBS: Esse projeto não terá uma hospedagem para utilização em outras aplicações, visto que ele tem foco apenas de estudo para entendimento das ferramentas</strong></p>
 
-![Diagrama classes](Imagens/diagrama.png)
+<h3>✦ Diagrama de classes</h3>
+Foi seguido o diagram de classes a seguir para a criação do sistema:
 
-## Regras e validações
-1. A classe **Smartphone** deve ser abstrata, não permitindo instanciar e servindo apenas como modelo.
-2. A classe **Nokia** e **Iphone** devem ser classes filhas de Smartphone.
-3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
-
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+<img src="/Imagens/diagrama.png"/>
