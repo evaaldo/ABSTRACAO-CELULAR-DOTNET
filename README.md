@@ -14,6 +14,6 @@
 <p><strong>OBS: Esse projeto não terá uma hospedagem para utilização em outras aplicações, visto que ele tem foco apenas de estudo para entendimento das ferramentas</strong></p>
 
 <h3>✦ Diagrama de classes</h3>
-Foi seguido o diagram de classes a seguir para a criação do sistema:
+<p>Foi seguido o diagram de classes a seguir para a criação do sistema:</p>
 <br/>
 <img src="/Imagens/diagrama.png"/>
