@@ -15,5 +15,5 @@
 
 <h3>✦ Diagrama de classes</h3>
 Foi seguido o diagram de classes a seguir para a criação do sistema:
-
+<br/>
 <img src="/Imagens/diagrama.png"/>
